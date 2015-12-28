@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
+<Script file="eye_Main.lua"/>
+	<!--Main UI frame -->
+	<Frame name="eye_MainFrame" toplevel="true" movable="true" hidden="true" parent="UIParent" hidden="false">
+		<Size>
+			<AbsDimension x="148" y="30"/>
+		</Size>
+		<Anchors>
+			<Anchor point="TOPLEFT" relativeTo="Minimap" relativePoint="BOTTOMLEFT"/>
+		</Anchors>
+		<Frames>
+			<Frame name="Choose_Characters" setAllPoints="true" hidden="true">	
+			
+</Ui>

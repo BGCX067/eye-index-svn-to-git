@@ -1,0 +1,6 @@
+##Interface: 20100
+##Title: Eye-Index
+##Notes: Inventory Managament System
+##Version: alpha v0.1
+eye_Main.lua
+eye_UI.xml
